@@ -6,14 +6,15 @@ License:  MIT License
 About:  This is a pseudo-random number generator implemented in Excel/VBA.
 
 Algorithm:
-
+```
 For any seed values of w, x, y, z:
-r~i = 5.980217w^2 + 9.446377x^0.25 + 4.81379y^0.33 + 8.91197z^0.5
-r~i = r~i - Int(r~i) For r~i+1:
+r<sub>i</sub> = 5.980217w<sup>2</sup> + 9.446377x<sup>0.25</sup> + 4.81379y<sup>0.33</sup> + 8.91197z<sup>0.5</sup>
+r<sub>i</sub> = r<sub>i</sub> - Int(r<sub>i</sub>) For r<sub>i+1</sub>:
 w = x
 x = y
 y = z
-z = r~i
+z = r<sub>i</sub>
+```
 
 Project page:  http://steve.mylesandmyles.info/projects/stochastic-inventory-control/
 
