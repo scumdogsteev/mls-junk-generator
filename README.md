@@ -1,7 +1,7 @@
 # MLS Junk Generator
 by Scumdog Steev / Steve Myles
 
-License:  MIT License
+License:  [MIT License](https://github.com/scumdogsteev/mls-junk-generator/blob/master/LICENSE)
 
 About:  This is a pseudo-random number generator implemented in Excel/VBA and (soon to be) R.
 
@@ -18,6 +18,15 @@ z = r_i
 
 Project Home:  http://steve.mylesandmyles.info/projects/mls-junk-generator/
 
+Files:
+1. [mls_junk_generator1.xlsm](https://github.com/scumdogsteev/mls-junk-generator/blob/master/mls_junk_generator1.xlsm) - simple Excel implementation
+2. [mls_junk_generator.bas](https://github.com/scumdogsteev/mls-junk-generator/blob/master/mls_junk_generator.bas) - VBA source for #1
+3. [mls_junk_generator2.xlsm](https://github.com/scumdogsteev/mls-junk-generator/blob/master/mls_junk_generator2.xlsm) - second Excel implementation (allows for clearing of the RN stream)
+4. [MLSJunkGen.bas](https://github.com/scumdogsteev/mls-junk-generator/blob/master/MLSJunkGen.bas) - VBA module for #3
+
+Project Info:
+
 * VBA Source last updated: 2015.01.31
 * Originally posted online: 2012.07.06
 * Moved to GitHub: 2015.02.01
+ 
