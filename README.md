@@ -16,13 +16,17 @@ y = z
 z = r_i
 ```
 
-Project Home:  http://steve.mylesandmyles.info/projects/mls-junk-generator/
-
 Files:
+
 1. [mls_junk_generator1.xlsm](https://github.com/scumdogsteev/mls-junk-generator/blob/master/mls_junk_generator1.xlsm) - simple Excel implementation
+
 2. [mls_junk_generator.bas](https://github.com/scumdogsteev/mls-junk-generator/blob/master/mls_junk_generator.bas) - VBA source for #1
+
 3. [mls_junk_generator2.xlsm](https://github.com/scumdogsteev/mls-junk-generator/blob/master/mls_junk_generator2.xlsm) - second Excel implementation (allows for clearing of the RN stream)
+
 4. [MLSJunkGen.bas](https://github.com/scumdogsteev/mls-junk-generator/blob/master/MLSJunkGen.bas) - VBA module for #3
+
+Project Home:  http://steve.mylesandmyles.info/projects/mls-junk-generator/
 
 Project Info:
 
