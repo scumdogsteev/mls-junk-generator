@@ -5,6 +5,8 @@ License:  [MIT License](https://github.com/scumdogsteev/mls-junk-generator/blob/
 
 About:  This is a pseudo-random number generator implemented in Excel/VBA and (soon to be) R.
 
+Project Home:  http://steve.mylesandmyles.info/projects/mls-junk-generator/
+
 Algorithm:
 ```
 For any seed values of w, x, y, z:
@@ -25,8 +27,6 @@ Files:
 3. [mls_junk_generator2.xlsm](https://github.com/scumdogsteev/mls-junk-generator/blob/master/mls_junk_generator2.xlsm) - second Excel implementation (allows for clearing of the RN stream)
 
 4. [MLSJunkGen.bas](https://github.com/scumdogsteev/mls-junk-generator/blob/master/MLSJunkGen.bas) - VBA module for #3
-
-Project Home:  http://steve.mylesandmyles.info/projects/mls-junk-generator/
 
 Project Info:
 
