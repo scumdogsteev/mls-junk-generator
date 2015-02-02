@@ -1,9 +1,9 @@
-# MLS Junk Generator
+# MLS Junk Generator VBA Implementation
 by Scumdog Steev / Steve Myles
 
 License:  [MIT License](https://github.com/scumdogsteev/mls-junk-generator/blob/master/LICENSE)
 
-About:  This is a pseudo-random number generator implemented in Excel/VBA and (soon to be) R.
+About:  This is a pseudo-random number generator implemented in Excel/VBA and [R](https://github.com/scumdogsteev/mls-junk-generatR).
 
 Project Home:  http://steve.mylesandmyles.info/projects/mls-junk-generator/
 
